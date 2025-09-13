@@ -1,0 +1,13 @@
+# WAN 2.2 Expert Prompter Requirements
+# These dependencies should already be available in ComfyUI with comfy_api_nodes
+
+# Core dependencies (should be available)
+torch>=1.9.0
+numpy>=1.21.0
+
+# ComfyUI API nodes (required for Gemini integration)
+# Note: These are typically installed as part of comfy_api_nodes
+# If missing, install comfy_api_nodes package
+
+# Optional: for enhanced text processing
+regex>=2023.0.0
